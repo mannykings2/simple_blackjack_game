@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: darkgreen;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    /*background-image: url("image/table.png");
+    background-size: cover; */
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 3.5rem;
+    margin: 3.5rem;
+}
+
+p   {
+    color: white;
+    font-size: 2.5rem;
+    margin :1.5rem;
+}
+
+#message-el {
+    font-style: italic; 
+}
